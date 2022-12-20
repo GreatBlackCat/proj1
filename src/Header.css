@@ -1,0 +1,17 @@
+.head{
+position: absolute;
+width: 396px;
+height: 82px;
+left: calc(50% - 396px/2 + 19px);
+top: 38px;
+
+font-family: 'Hind Siliguri';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 103px;
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+}
